@@ -9,7 +9,6 @@ import { getAllForestData } from 'utils/forestUtils'
 // import { useMatchBreakpoints } from '../../../../treedefi-uikit/src/hooks';
 // import QuestionHelper from 'components/QuestionHelper'
 import Hero from './components/Hero'
-import TillCollapseCard from './components/TillCollapseCard'
 import ParticipateCard from './components/ParticipateCard'
 import LastEventsCard from './components/LastEventsCard'
 import ActualKing from './components/ActualKing'
