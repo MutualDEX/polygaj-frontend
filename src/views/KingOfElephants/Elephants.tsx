@@ -71,12 +71,6 @@ const Forest = () => {
     <>
       <Hero />
       <Page>
-        <TillCollapseCard
-          hasWinner={forestData?.hasWinner}
-          nextStartTime={forestData?.nextStartTime}
-          lastBidTime={forestData?.lastBidTime}
-          endOfAuction={forestData?.endOfAuction}
-        />
         <Cards>
           <div>
             <ParticipateCard
